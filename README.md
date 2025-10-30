@@ -66,11 +66,12 @@ Cada projeto é uma chance de evoluir e fazer a diferença por meio dos dados. �
 
 ### 📫 Contato
 
-<p align="center">
   <a href="https://www.linkedin.com/in/euriane-alves/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+ 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anysevla.ea@gmail.com?subject=Contato%20pelo%20GitHub&body=Olá%20Euriane%2C%0A%0AQuero%20conversar%20sobre...)
   </a>
-  
+
 ---
 <p align="center">
   💬 “Posso ir mais devagar que os outros, mas nunca paro até alcançar meus objetivos.” 🌻
