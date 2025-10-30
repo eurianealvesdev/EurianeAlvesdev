@@ -71,7 +71,6 @@ Cada projeto é uma chance de evoluir e fazer a diferença por meio dos dados. �
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-</p>
 ---
 <p align="center">
   💬 “Posso ir mais devagar que os outros, mas nunca paro até alcançar meus objetivos.” 🌻
