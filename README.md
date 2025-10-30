@@ -67,7 +67,7 @@ Cada projeto é uma chance de evoluir e fazer a diferença por meio dos dados. �
 ### 📫 Contato
 
 <p align="center">
-  <a href="https://https://www.linkedin.com/in/euriane-alves/" target="_blank">
+  <a href="https://www.linkedin.com/in/euriane-alves/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
