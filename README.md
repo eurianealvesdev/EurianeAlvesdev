@@ -50,8 +50,8 @@ Cada projeto é uma chance de evoluir e fazer a diferença por meio dos dados. �
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eurianealvesdev&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurianealvesdev&layout=compact&theme=tokyonight" />
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=eurianealvesdev&show_icons=true&theme=tokyonight" />
+  <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurianealvesdev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
